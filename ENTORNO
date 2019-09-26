@@ -1,2 +1,48 @@
 #CICLO DE VIDA DEL SOFTWARE
-####1.DEFINE "CICLO DE VIDA DEL SOFT##·················3Nos referimos a ciclo de vida cuando del sofware cuando hablamos de todo el proceso que abarca desde la fase inicial hasta la fase final, pasando 
+####1.Define "Ciclo de vida del Software".
+Nos referimos a ciclo de vida cuando del sofware cuando hablamos de todo el proceso que abarca desde la fase inicial hasta la fase final, pasando por distintas fases intermedias para tener la garantía de que el software tenga todo los requisitos para la aplicación (validación) y se ha utilizado un procedimiento con métodos apropiados (verificación).
+####2.Nombra las fases principales del desarrollo de software y explica brevemente que se hace en cada una de ellas.
+Durante el proceso de desarrollo del software se pueded distinguir en seis fases, las cuales son:
+	**Análisis de Requisitos**: Durante esta etapa  se extraen los requisitos de un producto de software. El requisito se plasma en el *ERS*  y con ello se difine un diagrama de Entidad/Relación.
+	**Diseño y Arquitectura**: Es la fase que determina y define los casos de usos y cómo funciionará.
+	**Programación**: Consiste en la reducción del diseño a código. La complejidad y el tiempo empleado en esta etapa está más relacionada con el lenguaje que se usa. 
+	**Pruebas**: Es la comprobación de que el sofware realiza correctamente las tareas que se ha indicado en el análisis de requisitos.
+	**Documentación**: Reune toda la documentación del desarrollo del sofware, dentro de esto incluye las modulaciones(UML), diagramas, pruebas, manuales técnico y de usuario...
+	**Mantenimiento**: Esta fase no se trata solo de mantener el software, sino también de mejorarla para corrregirlo de errores que aparecen durante el uso, además se intenta extendenla para que haga nuevas cosas. 
+####3.Explica brevemente en qué consiste el modelo en cascada cuando hablamos de desarrollo de software.
+También llamado secuencial es una forma metodológica que consiste en ordenar rigurosamente todas las etapas de desarrollo del software, de esta manara una etapa no puede comenzar sin haber finalizado la etapa previa.
+####4.Ventajas e inconvenientes del modelo en cascada.
+Entre las ventajas de esta metodología se encuentra la facilidad de implementarse debido a que es un modelo conocido y con un uso frecuente que además realiza un bueen fncionamiento en los equipos débiles.
+Y entre sus desventajas está el hecho de ser un modelo rigurosamente estricto puede aumentar mucho el costo del desarrollo ya que cualquier error detectado en cualquier etapa conduce a volver al inicio de esa etapa prolongando el tiempo y aumentando en recurso que se utiliza en dicho desarrollo.
+####5.¿Qué se entiende por verificación? ¿Y por validación?
+
+####6.Explica como funciona el modelo de desarrollo mediante creación de prototipos.
+
+####7.Explica como funciona el modelo espiral cuando se aplica al desarrollo orientado a objetos.
+
+####8.¿Qué cuatro principios rigen el desarrollo ágil expresados en el Manifiesto Ágil?
+
+####9.¿Qué es una historia de usuario?
+
+####10.Haz un resumen sobre que se entiende por Lean software y qué principios lo rigen.
+
+####11.KANBAN. Estudia las ventajas e inconvenientes de tener una pizarra web digital para la metodología Kanban.
+
+####12.KANBAN. Haz un resumen de la metodología Kanban e indica sus diferencias frente a SCRUM.
+
+####13.SCRUM. Explica como funciona Scrum.
+
+####14.SCRUM. Define los siguientes términos:
+#####Product backlog.
+#####Sprint backlog.
+
+####15.SCRUM. En la terminología Scrum qué terminos se utilizan como sinónimo de:
+#####Jefe de proyecto.
+#####Cliente.
+#####Equipo de desarrollo.
+
+####16.SCRUM. Haz un resumen de los requisitos para poder utilizar Scrum.
+
+####17.XP. Explica los 5 valores de la Programación Extrema.
+
+####18.XP. ¿Cuáles son las características distintivas de XP frente a otras. metodologías ágiles? Explícalas
