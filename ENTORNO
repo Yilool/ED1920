@@ -15,17 +15,27 @@ También llamado secuencial es una forma metodológica que consiste en ordenar r
 Entre las ventajas de esta metodología se encuentra la facilidad de implementarse debido a que es un modelo conocido y con un uso frecuente que además realiza un bueen fncionamiento en los equipos débiles.
 Y entre sus desventajas está el hecho de ser un modelo rigurosamente estricto puede aumentar mucho el costo del desarrollo ya que cualquier error detectado en cualquier etapa conduce a volver al inicio de esa etapa prolongando el tiempo y aumentando en recurso que se utiliza en dicho desarrollo.
 ####5.¿Qué se entiende por verificación? ¿Y por validación?
-
+La verificación es un proceso del ciclo de vida del software donde se hace un procedimiento para ver si durante el desarrollo del software se ha utilizado métodos apropiado, mientra que la validadación se hace para tener la garantía de que el software cumpla todos los requisitos para la aplicación.
 ####6.Explica como funciona el modelo de desarrollo mediante creación de prototipos.
-
+El modelo de prototipo es un modelo evolutivo donde el prototipo se construye en un lapso de tiempo corto usando programas adecuados y pocos recursos.
 ####7.Explica como funciona el modelo espiral cuando se aplica al desarrollo orientado a objetos.
-
+El desarrollo en espiral es un modelo de desarrollo de software donde las actividades están formado en un conjunto de bucle, donde dicho bucles forman una espiral. Las actividades no tienen un orden fijo y a la hora de ejecutarse la actividad siguiente se elige mediante el análisis de riesgo.
 ####8.¿Qué cuatro principios rigen el desarrollo ágil expresados en el Manifiesto Ágil?
-
+1-Individuos e interacciones sobre procesos y herramientas individuos e interacciones sobre procesos y herramientas.
+2-Software funcionando sobre documentación extensiva.
+3-Colaboración con el cliente sobre negociación contractual.
+4-Respuesta ante el cambio sobre seguir un plan.
 ####9.¿Qué es una historia de usuario?
-
+Son representaciones de requisitos escritos en lenguaje humano y se utiliza en la validación en el desarrollo ágil.
 ####10.Haz un resumen sobre que se entiende por Lean software y qué principios lo rigen.
-
+Es una metodología de desarrollo de software donde ofrece un maco teórico sólido basado en la experiencia. Dicha metodología se rigen los pricipios *lean*:
+	-Eliminar los desperdicios
+	-Amplificar el aprnddizaje
+	-Decidir lo más tarde posible
+	-Entregar tan rápido como sea posible
+	-Capacitar al equipo
+	-Construir integridad intrínseca
+	-Véase todo el conjunto
 ####11.KANBAN. Estudia las ventajas e inconvenientes de tener una pizarra web digital para la metodología Kanban.
 
 ####12.KANBAN. Haz un resumen de la metodología Kanban e indica sus diferencias frente a SCRUM.
