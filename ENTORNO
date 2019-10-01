@@ -37,22 +37,45 @@ Es una metodología de desarrollo de software donde ofrece un maco teórico sól
 	-Construir integridad intrínseca
 	-Véase todo el conjunto
 ####11.KANBAN. Estudia las ventajas e inconvenientes de tener una pizarra web digital para la metodología Kanban.
-
+***VENTAJAS***:
+	-Estimula el rendimiento
+	-Tiene una organización fácil de comprender y permite la colaboración en tiempo real con otros
+	-Una cómoda visión que facilita la distribución del trabajo
+	-Es fácil de manejar y evita el exceso e información
+***DESVENTAJAS***:
+	-No es una técnica de desarrollo de software
+	-El sistema no tiene ninguna anticipación en caso de fluctuaciones grandes
+	-No tiene un óptimo funcionamiento
+	-Usarlo en unidades muy costosas, el manejo y almacenamiento también son costosas
 ####12.KANBAN. Haz un resumen de la metodología Kanban e indica sus diferencias frente a SCRUM.
-
+La metodología Kanban es un método de aprendizaje que se centra en la mejora visual del flujo de trabajo, a diferencia de esto el método Scrum se centra más en la reallización de las tareas. Por tanto el método Kanban se centra en el flujo y el método Scrum en el proceso.
 ####13.SCRUM. Explica como funciona Scrum.
-
+El método Scrum se centra en el trabajo por itineración, la realización de las tareas y cierre de sprints en el tiempo estimado.
 ####14.SCRUM. Define los siguientes términos:
 #####Product backlog.
 #####Sprint backlog.
-
+	-Product backlog: Es un listado de todas las tareas que se hay que realiza durante un proyecto.
+	-Sprint backlog: Es un listado de tareas que se subdivide las historias de usuario.
 ####15.SCRUM. En la terminología Scrum qué terminos se utilizan como sinónimo de:
 #####Jefe de proyecto.
 #####Cliente.
 #####Equipo de desarrollo.
-
+	-Jefe de Proyecto: Scrum Master
+	-Cliente: Product Owner
+	-Equipo de Desarrollo: Development Team
 ####16.SCRUM. Haz un resumen de los requisitos para poder utilizar Scrum.
-
+Para poder utiliza Scrum se debe cumplir unos importantes requisitos como:
+	-Una cultura de empresa en base a trabajo en equipo de 5 a 9 personas
+	-Un compromiso del cliente y de la Dirección
+	-mienbros de equipo que colaboore
+	-Relación entre proveedor y cliente
+	-Facilidad para corregir o cambiar proyecto
+	-Equipo con dedicación al completo
+	-Buena estabilidad del equipo
 ####17.XP. Explica los 5 valores de la Programación Extrema.
-
+La Programación Externa es una metodología de desarrollo donde adopta las mejores metodologías de desarrollo, además tiene 5 valores que lo rigen:
+	-Simplicidad: se trata de simplificar el diseño del software para agilizar el desarrollo y hacer mucho más fácil el mantenimiento.
+	-Comunicación: hay distintas formas de comunicación como en el caso de los programadores autodocumentar códigos o las pruebas unitarias.
+	-Feedback: así se conoce cuando un cliente integrado en el proyecto opina sobre el estado del proyecto. Essto ahora muchos problemas a la hora de solucionar o descubrir prroblemas.
+	-Coraje o Valentía: la necesidad de este valor bastante importante, ya que permite a los desarrollares que estén
 ####18.XP. ¿Cuáles son las características distintivas de XP frente a otras. metodologías ágiles? Explícalas
